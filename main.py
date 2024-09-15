@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 from PIL import Image, ImageTk
 import imutils
-import mediapipe as mp
+import mediapipe as mpp
 import math
 import os
 import face_recognition as fr
